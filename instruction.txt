@@ -16,3 +16,45 @@ ECMA (European Computer Manufacturers Association))
 
 Netscape --->  ECMA
 
+
+Where you can write the JS Code ?
+
+1. Before the closig of HEad tag
+2. Before the closing of Body tag
+3. External
+
+How to log/Display the javascript code
+1. Console.log
+
+There are 2 ways to path/address
+
+1. Relative Path/Address
+2. Absoulte Address
+		http/https
+
+
+Anything which is terminated by a semi-colon is called
+Statement
+
+
+// is called a JS Comment
+
+What are variables?
+
+Variable are like containers/Bucket
+
+I can perform any arithmetic Operation with Javscript.
+
+Addition
+Subtration
+Multiplaiton
+Divison
+
+
+Arithmetic Operators
++
+/
+* mul
+-
+
+
