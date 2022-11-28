@@ -1,0 +1,18 @@
+Web Development
+
+1. Fontend Dev (ClientSide)
+			1.1 HTML (Structure)
+			1.2 CSS   (Designing/ Presentation)
+			1.3 JS    ( Behaviour/Logic )
+2. Backend Dev  (ServerSide)
+			2.1  NodeJs
+
+
+Js is clientside and Serverside Scripting langauge
+
+The Official Name of Javascript is ECMA-262/ECMA Script
+
+ECMA (European Computer Manufacturers Association))
+
+Netscape --->  ECMA
+
